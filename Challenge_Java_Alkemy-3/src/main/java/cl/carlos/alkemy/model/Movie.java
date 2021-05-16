@@ -74,9 +74,6 @@ public class Movie implements Serializable {
 		this.title = title;
 	}
 
-	
-
-	
 
 	public Date getMovieYear() {
 		return movieYear;
